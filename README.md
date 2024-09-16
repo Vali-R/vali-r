@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-[![Vali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vali-r)](https://github.com/vali-r/github-readme-stats)
+
+## 🔥 Streak Stats
+
+| Stats    | Streak    |
+| :---: | :---: |
+|<a href="https://github.com/vali-r"><img alt="Vali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vali-r&show_icons=true&count_private=true&show_owner=true&theme=transparent" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vali-r&show_owner=true&theme=transparent" alt="vali-r"/>|
+
+
+<!-- [![Vali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vali-r&show_icons=true&theme=transparent)](https://github.com/vali-r/github-readme-stats) -->
 <!--
 **Vali-R/vali-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
