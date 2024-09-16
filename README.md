@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Vali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vali-r)](https://github.com/vali-r/github-readme-stats)
 <!--
 **Vali-R/vali-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
